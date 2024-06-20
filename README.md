@@ -20,3 +20,5 @@ As part of this work, I assume preparation of:
     live image.
   - and a communication module between the camera and the motion module control system.
 • Video data analysis system with motion detection.
+
+The project is still under construction, currently I am adapting the opencv library for face detection.
